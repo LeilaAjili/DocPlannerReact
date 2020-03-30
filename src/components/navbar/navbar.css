@@ -1,0 +1,74 @@
+
+
+.menu{
+    display: flex;
+    width: 300px;
+    list-style: none;
+    justify-content: space-between;
+    
+    margin-left: 500px;
+    
+
+}
+
+
+.submenu{
+    display: none;
+    position: absolute;
+    list-style: none;
+    top: -1;
+    width: 150px;
+    color: #747474 !important;
+    
+    
+}
+
+a{
+    text-decoration: none;
+    color: #747474 !important;
+}
+
+
+.title:hover .submenu{
+
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    
+
+}
+
+.title{
+    position: relative;
+    color: #747474 !important;
+}
+.title:hover{
+    color: deepskyblue;
+}
+
+.log{
+    height: 33px;
+    width: 268px;
+}
+
+.navbar{
+    display: flex;
+    justify-content: space-around;
+    margin-left: 200px;
+    margin-right: 200px;
+    margin-top: 20px;
+    background-color: white;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+}
+
+.element{
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #747474;
+}
+
+.element-spc{
+    color: red;
+}

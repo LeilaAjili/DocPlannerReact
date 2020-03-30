@@ -1,0 +1,57 @@
+
+
+.platform{
+    display: flex;
+    flex-flow: wrap;
+}
+
+.platformItem {
+    background-color: white;
+    margin: 1vw;
+    width: 15vw;
+    height: 17vw;
+    padding: 2vw 1vw 2vw;
+    text-align: center;
+  }
+
+  .stats {
+    display: flex;
+    background-color: #e5faf8;
+    justify-content: space-between;
+    padding: 5vw 10vw 5vw;
+    height: 45vw;
+    overflow: hidden;
+  }
+
+  .title-stats {
+    color: hsl(172, 100%, 35%);
+    width: 35vw;
+    font-weight: 500;
+  }
+
+  .paragraph-stats {
+    width: 30vw;
+    font-size: 1vw;
+    color: #888888;
+    margin-top: 2vw;
+    line-height: 1.75;
+  }
+
+  .signet-stats {
+    margin-top: 3vw;
+  }
+
+  .platformItem h4 {
+    color: hsl(172, 100%, 35%);
+    padding-top: 1vw;
+    font-size: 1.5vw;
+  }
+  
+  .platformItem p {
+    padding-top: 1vw;
+    color: #888888;
+    font-size: 1vw;
+  }
+  .x{
+    transform: translateY(-30px);
+  }

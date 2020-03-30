@@ -1,0 +1,36 @@
+
+
+.doc-planner{
+    width: 2vw;
+    height: 2vw;
+    fill: gray;
+}
+
+.globalCompany-title{
+  font-size: 2vw;
+  width: 50vw;
+  color: hsl(172, 100%, 35%);
+  white-space: pre-wrap;
+}
+
+.globalCompany-logos{
+ 
+ 
+  margin-top: 20px;
+  margin-left: 50px;
+  display: flex;
+  
+  
+  
+}
+
+.globalCompany-principal{
+    display: flex;
+    margin-left: 200px;
+    
+  }
+
+  .globalCompany1{
+    width: 400px;
+    white-space: pre-wrap;
+  }

@@ -1,0 +1,21 @@
+.improve {
+    margin: 5vw;
+  }
+  .improve h1 {
+    color: hsl(172, 100%, 35%);
+    font-size: 2vw;
+    width: 35vw;
+    text-align: center;
+    margin: auto;
+    line-height: 1.75;
+    font-weight: 300;
+  }
+  .improve p {
+    margin: auto;
+    margin-top: 1vw;
+    text-align: center;
+    width: 40vw;
+    line-height: 1.5;
+    font-size: 1.2vw;
+    color: #888888;
+  }

@@ -1,0 +1,37 @@
+.countryButton {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 320px;
+    padding-left: 0px;
+    
+    
+  }
+  .button {
+    background-color: #3d83df;
+    color: white;
+    border-radius: 0.5vw;
+    font-size: 1vw;
+    margin-left: 50px;
+  }
+  .countryButton h6 {
+    font-size: 1.2vw;
+    color: #747474;
+  }
+  .office-image {
+    width: 320px;
+    padding-left: 10px;
+    padding-right: 10px;
+    
+  }
+  
+  .offices {
+    display: flex;  
+    flex-flow: wrap;
+    justify-content: space-between;
+    margin-left: 150px;
+    margin-right: 150px;
+    height: 800px;
+   
+    
+  }

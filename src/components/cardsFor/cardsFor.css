@@ -1,0 +1,27 @@
+.cardsFor{
+    padding: 20px;
+    border-radius: 8px;
+    color: white;
+    margin: 10px;
+    flex-grow: 1;
+    position: relative;
+    height: 350px;
+    width: 407.38px;
+    overflow: hidden;
+}
+
+
+.cardsFor-title{
+    font-size: 20px;
+}
+
+.cardsFor-description{
+    font-size: 25px;
+}
+.cardsFor-image{
+    height: 244.38px;
+    width: 390.5px;
+    position: absolute;
+    bottom: 10px;
+    right: -100px;
+}
